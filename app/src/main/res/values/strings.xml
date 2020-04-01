@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">20180140119 - Arif Budiman Arrosyid</string>
+    <string name="title">PENDAFTARAN</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="agama">Agama</string>
+    <string name="islam">Islam</string>
+    <string name="kristen">Kristen</string>
+    <string name="katolik">Katolik</string>
+    <string name="hindu">Hindu</string>
+    <string name="Buddha">Buddha</string>
+    <string name="Konghucu">Konghucu</string>
+    <string name="aliran_kepercayaan">Aliran Kepercayaan</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_kembali">Masukkan password kembali</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="daftar">DAFTAR</string>
+
+</resources>
